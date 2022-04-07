@@ -1,3 +1,13 @@
+# React Coolors
+
+Think about the love child of Flatui colors and Material UI colors 😉
+
+## Features in a nutshell
+
+React Coolors allow you to create your custom color palettes, save palettes (in your localhost), adjust the color levels of the palette colors with a slider, and view the color levels of a single color from the palette. [Check it out on Vercel](https://react-coolors.vercel.app/)
+
+## Running
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -11,11 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
